@@ -5,3 +5,9 @@
 ## Getting Started
 
 clone仓库后  flutter run即可
+
+<img src=./image/1.png width=40% />
+
+<img src=./image/2.png width=40% />
+
+<img src=./image/3.png width=40% />
